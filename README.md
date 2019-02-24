@@ -6,11 +6,12 @@
 - https://github.com/Naohiro2g/micropython-adafruit-pca9685
 
 ### IPS LCD [ST7789, SPI/I2C] (ST7789 is very similar to ST7735)
-- https://github.com/solinnovay/Python_ST7789
+- https://github.com/Naohiro2g/Python_ST7789
 - 1.3 inch 240x240 SPI/I2C IPS LCD without CS from Ali Express
 - (https://github.com/Naohiro2g/st7789mpy) MicroPython
 
-### IPS LCD [ST7789, SPI/I2C] (ST7789 is very similar to ST7735)
+### IPS LCD [ST7789, SPI/I2C] Gerber data for breakout board
+### how to use it as the main screen of Pi
 - https://github.com/Naohiro2g/ST7789_1.3_screen
 - https://facelesstech.wordpress.com/2019/01/27/1-3-screen-with-raspberry-pi/
 - https://www.waveshare.com/1.3inch-lcd-hat.htm
