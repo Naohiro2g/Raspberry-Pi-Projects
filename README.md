@@ -1,5 +1,8 @@
 # Raspberry-Pi-Projects
 
+### BME280
+- https://github.com/Naohiro2g/bme280
+- https://github.com/Naohiro2g/Adafruit_Python_BME280
 
 ### PWM Controller for LED/Servo [PCA9685]
 - https://github.com/Naohiro2g/Adafruit_Python_PCA9685
