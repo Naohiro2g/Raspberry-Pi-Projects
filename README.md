@@ -1,6 +1,14 @@
 # Raspberry-Pi-Projects
 
-### test
+### MPU6050
+https://github.com/Naohiro2g/MPU6050_Demo_on_Raspberry-Pi
+
+Using complementary filter. 
+ - http://blog.bitify.co.uk/2013/11/using-complementary-filter-to-combine.html
+ - http://blog.bitify.co.uk/2013/11/reading-data-from-mpu-6050-on-raspberry.html
+
+for Sunfounder kit with drift parameters
+http://wiki.sunfounder.cc/index.php?title=MPU6050_Module
 
 ### BME280
 - https://github.com/Naohiro2g/bme280
