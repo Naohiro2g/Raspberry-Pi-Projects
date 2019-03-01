@@ -1,7 +1,12 @@
 # Raspberry-Pi-Projects
 
 ### MPU6050
-https://github.com/Naohiro2g/MPU6050_Demo_on_Raspberry-Pi
+- teapot on RasPi, server/client
+   - https://github.com/Naohiro2g/MPU6050_teapot_demo
+- teapot with DMP
+   - https://github.com/Naohiro2g/PiBits
+- with complementary filter
+   - https://github.com/Naohiro2g/MPU6050_Demo_on_Raspberry-Pi
 
 Using complementary filter. 
  - http://blog.bitify.co.uk/2013/11/using-complementary-filter-to-combine.html
