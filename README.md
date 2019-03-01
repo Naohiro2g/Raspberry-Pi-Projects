@@ -1,6 +1,6 @@
 # Raspberry-Pi-Projects
 
-### MPU6050
+### MPU6050 Six-Axis (Gyro + Accelerometer) MEMS MotionTracking Device
 - teapot on RasPi, server/client
    - https://github.com/Naohiro2g/MPU6050_teapot_demo
 - teapot with DMP
@@ -15,7 +15,8 @@ Using complementary filter.
 for Sunfounder kit with drift parameters
 http://wiki.sunfounder.cc/index.php?title=MPU6050_Module
 
-### BME280
+### BME280 Pressure, humidity and temperature Sensor
+
 - https://github.com/Naohiro2g/bme280
 - https://github.com/Naohiro2g/Adafruit_Python_BME280
 
