@@ -42,6 +42,12 @@ http://wiki.sunfounder.cc/index.php?title=MPU6050_Module
 - Python library for Raspberry Pi and SDD1306 Display Driver connected via I2C/SPI
 - OLED 128 x 64 Display and 8x8 pixel Japanese font misakifont
 
+### luma.led_matrix [MAX7219]
+ - https://github.com/Naohiro2g/luma.led_matrix/blob/master/doc/install.rst
+ - https://github.com/Naohiro2g/luma.led_matrix
+ - MAX7219 Dot Matrix Driver via SPI, 8x8 dot matrix LED
+ - WS2812 RGB NeoPixels
+ 
 ### 4-digit 7-segment LED Display [TM1673, I2C]
 - https://github.com/Naohiro2g/tm1637-pi-python
 - (https://github.com/Naohiro2g/tm1637)
