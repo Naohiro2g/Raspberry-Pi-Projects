@@ -54,6 +54,7 @@ http://wiki.sunfounder.cc/index.php?title=MPU6050_Module
  
 ### RGB NeoPixels 8-dot strip [WS2812]
 https://github.com/Naohiro2g/rpi-ws281x-python
+https://github.com/Naohiro2g/luma.led_matrix/blob/master/doc/install.rst
  - WS2812 RGB NeoPixels (5/3.3V, GPIO18/12, GND)
 
 ### 4-digit 7-segment LED Display [TM1673, I2C]
