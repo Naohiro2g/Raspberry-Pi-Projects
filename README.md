@@ -52,6 +52,10 @@ http://wiki.sunfounder.cc/index.php?title=MPU6050_Module
  - MAX7219 Dot Matrix Driver via SPI, 8x8 dot matrix LED
  - WS2812 RGB NeoPixels
  
+### RGB NeoPixels 8-dot strip [WS2812]
+https://github.com/Naohiro2g/rpi-ws281x-python
+ - WS2812 RGB NeoPixels (5/3.3V, GPIO18/12, GND)
+
 ### 4-digit 7-segment LED Display [TM1673, I2C]
 - https://github.com/Naohiro2g/tm1637-pi-python
 - (https://github.com/Naohiro2g/tm1637)
