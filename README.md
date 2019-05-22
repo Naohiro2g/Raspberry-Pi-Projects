@@ -17,7 +17,14 @@ Using complementary filter.
  - http://blog.bitify.co.uk/2013/11/reading-data-from-mpu-6050-on-raspberry.html
 
 for Sunfounder kit with drift parameters
-http://wiki.sunfounder.cc/index.php?title=MPU6050_Module
+ - http://wiki.sunfounder.cc/index.php?title=MPU6050_Module
+
+Information at www.i2cdevlib.com
+ - [MPU6050 Class Reference](https://www.i2cdevlib.com/docs/html/class_m_p_u6050.html)
+ - [MPU6050 Register Map](https://www.i2cdevlib.com/devices/mpu6050#registers)
+
+fork from jeff rowberg
+ - [Raspberry Pi](https://github.com/Naohiro2g/i2cdevlib/tree/master/RaspberryPi_bcm2835)
 
 ### BME280 Pressure, humidity and temperature Sensor
 
