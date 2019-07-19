@@ -64,11 +64,11 @@ https://github.com/Naohiro2g/rpi-ws281x-python
 https://github.com/Naohiro2g/luma.led_matrix/blob/master/doc/install.rst
  - WS2812 RGB NeoPixels (5/3.3V, GPIO18/12, GND)
 
-### 4-digit 7-segment LED Display [TM1673, I2C]
+### 4-digit 7-segment LED Display [TM1673, not I2C]
 - https://github.com/Naohiro2g/tm1637-pi-python
 - (https://github.com/Naohiro2g/tm1637)
 - (https://github.com/Naohiro2g/raspberrypi-python-tm1637)
-- TM1637 LED Driver for 8-segment by 6 digits via I2C
+- TM1637 LED Driver for 8-segment by 6 digits via I2C-like 2-wire, not I2C
 
 ### GPIO Zero Recipes [LED, Push Button, Servo, Supersonic Distance]
 - https://github.com/Naohiro2g/gpiozero-recipes
