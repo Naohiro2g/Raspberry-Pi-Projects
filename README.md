@@ -1,5 +1,23 @@
 # Raspberry-Pi-Projects
 
+### MAX30102 / MAX30105 Pulse Oximeter and Heart-Rate Sensor
+
+#### vrano714 tutorial
+ - at Qiita https://qiita.com/vrn/items/1ac58c61194b23af1d8c by vrn
+ - https://github.com/Naohiro2g/max30102-tutorial-raspberrypi  by vrano714
+ - https://github.com/Naohiro2g/max30102  by doug-burrell, no interrupt, polling version
+
+#### mfitzp
+ - https://github.com/Naohiro2g/max30100  by mfitzp
+ - https://github.com/Naohiro2g/MAX30102-in-raspberry-pi-
+
+#### Pimoroni Breakout Garden
+ - https://github.com/Naohiro2g/max30105-python by pimoroni
+ - Breakout Garden HAT https://shop.pimoroni.com/products/breakout-garden-hat
+ - MAX30105 https://shop.pimoroni.com/products/max30105-breakout-heart-rate-oximeter-smoke-sensor
+ - from Sparkfun Sensor Library Example5_HeartRate https://github.com/Naohiro2g/SparkFun_MAX3010x_Sensor_Library
+
+
 ### VL53L1X ToF LASER Ranging Sensor, or LIDAR 
  - https://github.com/Naohiro2g/vl53l1x-python
  - https://github.com/Naohiro2g/vl53l1xToWebSocket/
