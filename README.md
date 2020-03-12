@@ -116,4 +116,6 @@ https://github.com/Naohiro2g/luma.led_matrix/blob/master/doc/install.rst
 - https://learn.adafruit.com/adafruit-color-sensors/python-circuitpython
 - http://www.neko.ne.jp/~freewing/raspberry_pi/raspberry_pi_3_i2c_tcs34725_rgb_color_sensor/
 
+- https://teratail.com/questions/102951
+- https://teratail.com/questions/102489
 
