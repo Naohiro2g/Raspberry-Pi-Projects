@@ -109,3 +109,11 @@ https://github.com/Naohiro2g/luma.led_matrix/blob/master/doc/install.rst
 - https://github.com/Naohiro2g/RGBcontroller
 - Forked from https://github.com/ebbesmoeller/RGBcontroller (Simple program using Python and module gpiozero to host a webinterface with a color wheel, controlling the color of a RGB led connected to GPIO on a RaspPi.)
 - Going to add Color Correction mode.
+
+### RGD Color Sensor [TCS34725 I2C]
+- https://github.com/adafruit/Adafruit_Python_TCS34725
+- https://github.com/adafruit/Adafruit_CircuitPython_TCS34725
+- https://learn.adafruit.com/adafruit-color-sensors/python-circuitpython
+- http://www.neko.ne.jp/~freewing/raspberry_pi/raspberry_pi_3_i2c_tcs34725_rgb_color_sensor/
+
+
